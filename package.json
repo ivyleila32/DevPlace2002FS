@@ -1,0 +1,29 @@
+{
+  "name": "devplace2002fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivyleila32/DevPlace2002FS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "devplace",
+    "bootcamp"
+  ],
+  "author": "Ivana Leila Di Biase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivyleila32/DevPlace2002FS/issues"
+  },
+  "homepage": "https://github.com/ivyleila32/DevPlace2002FS#readme",
+  "dependencies": {
+    "generate-password": "^1.7.0",
+    "readline-sync": "^1.4.10"
+  }
+}
